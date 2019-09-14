@@ -4,3 +4,11 @@
 
 layout: home
 ---
+# Bio
+This webpage will serve to detail my current and future projects. In addition, will try to add and play with some features to improve my skill as a coder.
+
+# Projects
+Some ongoing and past projects I want to work or have worked in.
+
+# Work experience
+Former works I did and my experience.
