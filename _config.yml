@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nuno Pimpão Martins
+title: Nuno's gitpage
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Description to be built and done.
+  A small webpage where I can showcase my projects and do some tests.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nunopmartins
@@ -34,6 +34,7 @@ plugins:
 
 collections:
   projects:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
