@@ -18,4 +18,8 @@ defaults:
     values:
       layout: "default"
 
+<<<<<<< HEAD
 theme: minima
+=======
+theme: jekyll-theme-slate
+>>>>>>> ce457c0435c9844a89e4d4faac7360a20215e7e0
