@@ -9,5 +9,5 @@ This webpage will serve to detail my current and future projects. In addition, w
 # [Projects](/projects.html)
 Some ongoing and past projects I want to work or have worked in.
 
-# [Teaching](/teaching.html)
+# [Teaching activities](/teaching.html)
 List of events and workshops where I was a teacher or helped with the organization.
