@@ -9,5 +9,8 @@ This webpage will serve to list my projects. In addition, will try to add and pl
 # [Projects](/projects.html)
 Some ongoing and past projects I want to work or have worked in.
 
+# [Publications](/publications.html)
+Publications I have been part of.
+
 # [Teaching activities](/teaching.html)
 List of events and workshops where I was a teacher or helped with the organization.
