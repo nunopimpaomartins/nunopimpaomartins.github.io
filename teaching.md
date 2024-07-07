@@ -5,6 +5,10 @@ title: Teaching
 # Teaching activities
 Due to my previous work as a Imaging specialist and a Bioimage analyst, I participated in some workshops and courses as teacher, helping students preparing projects to go to the microscope or analyzing microscope images to extract data and information.
 
+- _November 2022_ - __9<sup>th</sup> DGZ Focus Workshop__, Germany, Online
+- _July 2022_ - __Deep Learning for Microscopy Image Analysis__, Human Technopole, Online
+- _November 2021_ - __Deep Learning for Microscopy Image Analysis__, Human Technopole, Online
+- _May 2021_ - __Content Aware Image Restoration at HT__, Human Technopole, Online
 - _November 2018_ - __Introductory course on Image Analysis__, Champalimaud Center for the Unknown, Lisbon, Portugal
 - _June 2018_ - __EMBO Practical course on 3D Developmental Imaging 2018__, Instituto Gulbenkian de Ciência, Oeiras, Portugal
 - _June 2018_ - __XXIII Meeting of the Portuguese Society of Animal Pathology__, Escola Universitária Vasco da Gama, Coimbra, Portugal
