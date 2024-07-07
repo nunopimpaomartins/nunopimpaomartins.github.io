@@ -4,7 +4,7 @@
 
 layout: home
 ---
-This webpage will serve to detail my current and future projects. In addition, will try to add and play with some features to improve my skill as a coder.
+This webpage will serve to list my projects. In addition, will try to add and play with some features to improve my skill as a coder.
 
 # [Projects](/projects.html)
 Some ongoing and past projects I want to work or have worked in.
